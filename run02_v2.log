@@ -1,0 +1,5754 @@
+
+/-------------------------
+| Training trial 1
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.53)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.35)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.18)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.61)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.47)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.69)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.07)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.74)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.85)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.12)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.99)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.62)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.69)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.14)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.59)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.34)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.42)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.10)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.12)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded -0.10)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 2
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.09)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.86)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.38)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.89)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.41)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.27)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -20.21)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.91)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.51)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.65)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.00)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.70)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.16)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.46)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.82)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.98)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.29)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.50)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.39)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.18)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.25)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.58)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.63)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.75)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.35)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 3
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.03)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.45)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.66)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.34)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.80)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.71)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 0.98)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.52)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.41)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.09)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.50)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.21)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.12)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.23)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.93)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.23)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.74)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.01)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.49)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.11)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.52)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.03)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.68)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.55)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.53)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 4
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.98)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.09)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.50)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.55)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.40)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.72)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.38)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.78)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded -0.02)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded -0.00)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.14)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.54)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.92)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded -0.05)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.19)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.07)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.41)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.57)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.08)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.74)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 5
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.16)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.50)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.65)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.84)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.65)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.89)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.82)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.45)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.21)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.24)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.18)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.34)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.22)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded -0.03)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded -0.38)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.89)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.80)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.45)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.03)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.33)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 6
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -20.31)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.47)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.75)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.96)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.11)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.06)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.54)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.69)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.53)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.28)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.93)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.60)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.50)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.18)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.04)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.10)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.01)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.63)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.32)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.82)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.28)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.55)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.65)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.42)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.39)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 7
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.05)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.19)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.27)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.72)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.56)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.37)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.63)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.45)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.26)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.77)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.06)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.58)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.61)
+35% of time remaining to reach destination.
+
+Trial Completed!
+Agent reached the destination.
+
+/-------------------------
+| Training trial 8
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.77)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.83)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.13)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.55)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.70)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.18)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.28)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.37)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.72)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.88)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.79)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.62)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.26)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.10)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.41)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.77)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.23)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 0.94)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.56)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.44)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 9
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.85)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.48)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.49)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.21)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded -0.02)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.55)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.56)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.56)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.58)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.08)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.39)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.03)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.19)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.11)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.33)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.79)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.71)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.82)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.45)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.57)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.01)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.87)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded -0.01)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded -0.35)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.08)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 10
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.47)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.89)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.01)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.81)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.13)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.04)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.56)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.88)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.94)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.07)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.88)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.84)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.11)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.35)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 0.81)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.07)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.96)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.42)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.56)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.25)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.34)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.83)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.83)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.11)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.49)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 11
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.42)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.96)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.28)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.78)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.68)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.52)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.01)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.47)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.80)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.18)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.74)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.30)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.60)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.02)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.40)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 0.70)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.53)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.50)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.72)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.31)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 12
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.39)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.29)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.78)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.19)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.81)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.98)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.50)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.23)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.27)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.05)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.43)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.70)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.97)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.73)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.41)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.98)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.43)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.50)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.19)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.01)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 13
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.88)
+97% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.66)
+93% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.75)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.97)
+87% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.38)
+83% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.87)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.98)
+77% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.20)
+73% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.72)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.75)
+67% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 0.89)
+63% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.35)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.64)
+57% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.27)
+53% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.68)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.73)
+47% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.44)
+43% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded -0.23)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.76)
+37% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.13)
+33% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.11)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.20)
+27% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.73)
+23% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.88)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.22)
+17% of time remaining to reach destination.
+
+/-------------------
+| Step 25 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.64)
+13% of time remaining to reach destination.
+
+/-------------------
+| Step 26 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.46)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 27 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded -0.45)
+7% of time remaining to reach destination.
+
+/-------------------
+| Step 28 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.58)
+3% of time remaining to reach destination.
+
+/-------------------
+| Step 29 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.95)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 14
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.43)
+97% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.95)
+93% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.74)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.75)
+87% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.28)
+83% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.59)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.18)
+77% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.55)
+73% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.98)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.51)
+67% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.39)
+63% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.20)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded -0.09)
+57% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.46)
+53% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.91)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.19)
+47% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.38)
+43% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.31)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.80)
+37% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.18)
+33% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.34)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.88)
+27% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.44)
+23% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.17)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.38)
+17% of time remaining to reach destination.
+
+/-------------------
+| Step 25 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.87)
+13% of time remaining to reach destination.
+
+/-------------------
+| Step 26 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.93)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 27 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.58)
+7% of time remaining to reach destination.
+
+/-------------------
+| Step 28 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.48)
+3% of time remaining to reach destination.
+
+/-------------------
+| Step 29 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.70)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 15
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.40)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.11)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.43)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.65)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.95)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.74)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.38)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.59)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.03)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.15)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.24)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.96)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.53)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.66)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.31)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.07)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.24)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.87)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.44)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.21)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.69)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.07)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.53)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded -0.78)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.11)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 16
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.90)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.53)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.98)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.84)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -20.07)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.54)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.00)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.09)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.87)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.12)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.40)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.80)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded -0.05)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.37)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.12)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.87)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.41)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.08)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.65)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.30)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 17
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.84)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.08)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.47)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.01)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.43)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.41)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.12)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.11)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.80)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.05)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.79)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.31)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.68)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.93)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.01)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.45)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.84)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.02)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.41)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.54)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 18
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.38)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.78)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.46)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.09)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.56)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.24)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.04)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.33)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.86)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.17)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.76)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.69)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.25)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.00)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.96)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.05)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.70)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.29)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.07)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.86)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.96)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.64)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.62)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.14)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.51)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Training trial 19
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.02)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.54)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.65)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.10)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.36)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.39)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.37)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.07)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.58)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.57)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.09)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.30)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.45)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -6.00)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.20)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.80)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.05)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.96)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.83)
+24% of time remaining to reach destination.
+
+Trial Completed!
+Agent reached the destination.
+
+/-------------------------
+| Training trial 20
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.21)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.01)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.80)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.35)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.75)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.46)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.36)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.52)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.91)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.09)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.11)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.22)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.10)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.80)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.53)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.72)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.72)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.07)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.96)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.39)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.80)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.33)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.78)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.47)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.29)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 1
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.56)
+97% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.81)
+94% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.62)
+91% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.76)
+89% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.41)
+86% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.57)
+83% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.38)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.62)
+77% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.02)
+74% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.48)
+71% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.31)
+69% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.66)
+66% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 1.72)
+63% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.21)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.94)
+57% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -39.41)
+54% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.95)
+51% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.10)
+49% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.00)
+46% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.63)
+43% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded -0.04)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.64)
+37% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.34)
+34% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.40)
+31% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.72)
+29% of time remaining to reach destination.
+
+/-------------------
+| Step 25 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.91)
+26% of time remaining to reach destination.
+
+/-------------------
+| Step 26 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.18)
+23% of time remaining to reach destination.
+
+/-------------------
+| Step 27 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.33)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 28 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.43)
+17% of time remaining to reach destination.
+
+/-------------------
+| Step 29 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.34)
+14% of time remaining to reach destination.
+
+/-------------------
+| Step 30 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.39)
+11% of time remaining to reach destination.
+
+/-------------------
+| Step 31 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.62)
+9% of time remaining to reach destination.
+
+/-------------------
+| Step 32 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.13)
+6% of time remaining to reach destination.
+
+/-------------------
+| Step 33 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.19)
+3% of time remaining to reach destination.
+
+/-------------------
+| Step 34 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.34)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 2
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.94)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.35)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.01)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.97)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.12)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.41)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.93)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.00)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.51)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.37)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.23)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.38)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.45)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.07)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 1.65)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.90)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.37)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.60)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.09)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of left. (rewarded 0.72)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.31)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.00)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.54)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.63)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.40)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 3
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.19)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.64)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.66)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.93)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.72)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.41)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.60)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.36)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.44)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.78)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.76)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.38)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.29)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.34)
+30% of time remaining to reach destination.
+
+Trial Completed!
+Agent reached the destination.
+
+/-------------------------
+| Testing trial 4
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.05)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.50)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.45)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.30)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.07)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.81)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.62)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.69)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.18)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.66)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.01)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.70)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -20.05)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.01)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.63)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.77)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.06)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.52)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.07)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.19)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 5
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.31)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.91)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.42)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.07)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.81)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -20.94)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.40)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.39)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.84)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.33)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.76)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.38)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.43)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.60)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.20)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.89)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.62)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded -0.07)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.17)
+5% of time remaining to reach destination.
+
+Trial Completed!
+Agent reached the destination.
+
+/-------------------------
+| Testing trial 6
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.47)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.21)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.88)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.70)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.88)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.67)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.56)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.07)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.45)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.62)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.62)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.08)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.68)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.75)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.21)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.32)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.69)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.32)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.64)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.71)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.57)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.33)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.04)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded -0.35)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.34)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 7
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.43)
+96% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.26)
+92% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.10)
+88% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.31)
+84% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.46)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.14)
+76% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.24)
+72% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.28)
+68% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 1.89)
+64% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.40)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded -0.12)
+56% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.73)
+52% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.92)
+48% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.02)
+44% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.98)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.09)
+36% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.96)
+32% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.95)
+28% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.37)
+24% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.21)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.78)
+16% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.89)
+12% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 0.37)
+8% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 0.85)
+4% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.88)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 8
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.74)
+95% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.73)
+90% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.55)
+85% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.17)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.43)
+75% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.24)
+70% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.25)
+65% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.27)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.64)
+55% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.38)
+50% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.83)
+45% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of right. (rewarded 0.82)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.17)
+35% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 1.59)
+30% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 2.22)
+25% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.41)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.95)
+15% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.87)
+10% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.84)
+5% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded -0.48)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+/-------------------------
+| Testing trial 9
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.88)
+97% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.07)
+94% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 2.24)
+91% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.99)
+89% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.97)
+86% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint forward. (rewarded 2.44)
+83% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.64)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.64)
+77% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.66)
+74% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.16)
+71% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.41)
+69% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.89)
+66% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.60)
+63% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -5.07)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.74)
+57% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 0.70)
+54% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove forward instead of right. (rewarded 1.32)
+51% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.43)
+49% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.05)
+46% of time remaining to reach destination.
+
+Trial Completed!
+Agent reached the destination.
+
+/-------------------------
+| Testing trial 10
+\-------------------------
+
+
+/-------------------
+| Step 0 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.68)
+97% of time remaining to reach destination.
+
+/-------------------
+| Step 1 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 0.36)
+94% of time remaining to reach destination.
+
+/-------------------
+| Step 2 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 1.03)
+91% of time remaining to reach destination.
+
+/-------------------
+| Step 3 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.92)
+89% of time remaining to reach destination.
+
+/-------------------
+| Step 4 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.00)
+86% of time remaining to reach destination.
+
+/-------------------
+| Step 5 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.65)
+83% of time remaining to reach destination.
+
+/-------------------
+| Step 6 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.24)
+80% of time remaining to reach destination.
+
+/-------------------
+| Step 7 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove left instead of forward. (rewarded 1.00)
+77% of time remaining to reach destination.
+
+/-------------------
+| Step 8 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.71)
+74% of time remaining to reach destination.
+
+/-------------------
+| Step 9 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.92)
+71% of time remaining to reach destination.
+
+/-------------------
+| Step 10 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.68)
+69% of time remaining to reach destination.
+
+/-------------------
+| Step 11 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.83)
+66% of time remaining to reach destination.
+
+/-------------------
+| Step 12 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.31)
+63% of time remaining to reach destination.
+
+/-------------------
+| Step 13 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.73)
+60% of time remaining to reach destination.
+
+/-------------------
+| Step 14 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -39.32)
+57% of time remaining to reach destination.
+
+/-------------------
+| Step 15 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -10.46)
+54% of time remaining to reach destination.
+
+/-------------------
+| Step 16 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint left. (rewarded 2.32)
+51% of time remaining to reach destination.
+
+/-------------------
+| Step 17 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.63)
+49% of time remaining to reach destination.
+
+/-------------------
+| Step 18 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light with traffic and cause a major accident. (rewarded -40.43)
+46% of time remaining to reach destination.
+
+/-------------------
+| Step 19 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.85)
+43% of time remaining to reach destination.
+
+/-------------------
+| Step 20 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.51)
+40% of time remaining to reach destination.
+
+/-------------------
+| Step 21 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.86)
+37% of time remaining to reach destination.
+
+/-------------------
+| Step 22 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -10.72)
+34% of time remaining to reach destination.
+
+/-------------------
+| Step 23 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through traffic and cause a minor accident. (rewarded -19.42)
+31% of time remaining to reach destination.
+
+/-------------------
+| Step 24 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent idled at a green light with no oncoming traffic. (rewarded -4.22)
+29% of time remaining to reach destination.
+
+/-------------------
+| Step 25 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving right through traffic and cause a minor accident. (rewarded -19.27)
+26% of time remaining to reach destination.
+
+/-------------------
+| Step 26 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of forward. (rewarded 1.04)
+23% of time remaining to reach destination.
+
+/-------------------
+| Step 27 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light. (rewarded -9.93)
+20% of time remaining to reach destination.
+
+/-------------------
+| Step 28 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 0.74)
+17% of time remaining to reach destination.
+
+/-------------------
+| Step 29 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.91)
+14% of time remaining to reach destination.
+
+/-------------------
+| Step 30 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent drove right instead of left. (rewarded 1.25)
+11% of time remaining to reach destination.
+
+/-------------------
+| Step 31 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving left through a red light. (rewarded -9.52)
+9% of time remaining to reach destination.
+
+/-------------------
+| Step 32 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent followed the waypoint right. (rewarded 1.18)
+6% of time remaining to reach destination.
+
+/-------------------
+| Step 33 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent attempted driving forward through a red light with traffic and cause a major accident. (rewarded -40.95)
+3% of time remaining to reach destination.
+
+/-------------------
+| Step 34 Results
+\-------------------
+
+!! Agent state not been updated!
+Agent properly idled at a red light. (rewarded 0.71)
+0% of time remaining to reach destination.
+
+Trial Aborted!
+Agent did not reach the destination.
+
+Simulation ended. . . 
